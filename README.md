@@ -1,15 +1,15 @@
 # Hacktober-2020
 ## Share what you did in 2020!
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/open-minds/Hacktober-2020/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/open-minds/Hacktober-fest-2020/blob/master/LICENSE)
 ![first-temers](https://img.shields.io/badge/first--timers-friendly-blue)
 ![PRs-welcome](https://img.shields.io/badge/Pull%20Requests-Welcome-success)
-![GitHub search hit counter](https://img.shields.io/github/search/open-minds/Hacktober-2020/hacktoberfest?color=red&style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/open-minds/Hacktober-2020?color=teal&style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/open-minds/Hacktober-2020?style=flat-square)
+![GitHub search hit counter](https://img.shields.io/github/search/open-minds/Hacktober-fest-2020/hacktoberfest?color=red&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/open-minds/Hacktober-fest-2020?color=teal&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/open-minds/Hacktober-fest-2020?style=flat-square)
 
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/open-minds/Hacktober-2020?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/open-minds/Hacktober-2020?color=green&style=flat-square)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/open-minds/Hacktober-fest-2020?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/open-minds/Hacktober-fest-2020?color=green&style=flat-square)
 
 
 Repo for TOM members dedicated for the Hacktober fest of 2020 (7th edition), this repo is here to encourage open source learning and sharing and enhance git/github using abilities. 
