@@ -94,6 +94,18 @@ Your School
 
 [GitHib username](GitHub profile link)
 ```
+### 3. Add a profile readMe: 
+
+Add a `Your_Full_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an *empty* example:
+
+```markdown
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dracula&line_height=27" alt="Username's github stats"/>
+
+```
+
+Here's a full working example:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabonnor1&show_icons=true&theme=dracula&line_height=27" alt="Oussama's github stats"/>
 
 
 ## Up for more PRs? Check this quick list for more interesting ressources (first timers friendly):
