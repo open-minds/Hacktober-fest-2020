@@ -5,3 +5,4 @@
 #### [Doha Helmaoui](https://github.com/Doha-Helmaoui)
 #### [Oussama Bouchikhi](https://github.com/oussamabouchikhi)
 #### [Zaki Bonnor](https://github.com/ZakiBonnor)
+#### [Houari ZEGAI](https://github.com/HouariZegai)
