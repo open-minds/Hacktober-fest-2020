@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Code Wars Slave",
+  "version": "0.1",
+  "web_accessible_resources": [
+    "photos/azizi.png"
+  ],
+  "content_scripts": [{
+    "matches": [
+      "<all_urls>"
+    ],
+    "js": ["content.js"]
+  }]
+}
