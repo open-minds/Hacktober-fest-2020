@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	min-height: 100vh;
+	background-color: aliceblue;
+	color: black;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+
+body.dark {
+	background-color: black;
+	color: white;
+}
+
+
+.dark-mode-container {
+	font-size: 1.3rem;
+}
+
+.dark-mode-container input {
+    margin-top: 4px;
+    height: 22px;
+    width: 22px;
+}
+
+label {
+	user-select: none;
+}

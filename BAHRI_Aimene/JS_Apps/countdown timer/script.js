@@ -1,9 +1,5 @@
 // Set the date we're counting down to
 var countDownDate = new Date("Oct 30, 2020 23:59:59").getTime();
-const daysEl = document.getElementById('days')
-const hoursEl = document.getElementById('hours')
-const minutesEl = document.getElementById('minutes')
-const secondsEl = document.getElementById('seconds')
 
 // Update the count down every 1 second
 var x = setInterval(function() {
